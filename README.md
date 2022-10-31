@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohammadshoaib7721@gmail.com**
 
-- ⚡ Fun fact **Photography, Food making, writer, Content creation**
+- ⚡ Fun fact **I am photographer, foodie, content creator & poet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
