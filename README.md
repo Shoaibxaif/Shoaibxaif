@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shoaib</h1>
-<h3 align="center">A passionate frontend developer & UI Designer from India</h3>
+<h3 align="center">A passionate frontend developer & UI/UX Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibxaif&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibxaif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohamma48930494" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma48930494?logo=twitter&style=for-the-badge" alt="mohamma48930494" /></a> </p>
 
-- 🌱 I’m currently learning **Adobe XD**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://shoaibxaif.github.io/portfolio-website/](https://shoaibxaif.github.io/portfolio-website/)
 
-- 💬 Ask me about **UI, Content Creation, Graphic Design and Web Development**
+- 💬 Ask me about **UI/UX, Content Creation, Graphic Design and Web Development**
 
 - 📫 How to reach me **mohammadshoaib7721@gmail.com**
 
