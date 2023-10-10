@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamma48930494" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma48930494?logo=twitter&style=for-the-badge" alt="mohamma48930494" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://shoaibxaif.github.io/portfolio-website/](https://shoaibxaif.github.io/portfolio-website/)
 
